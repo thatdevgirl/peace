@@ -1,0 +1,66 @@
+h3 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+section.peace {
+	margin: 0;
+	padding: 2em 4em;
+}
+
+.page-title.peace {
+	background: #8f8;
+	margin-bottom: 2em;
+}
+
+canvas { 
+	border: 1px solid #000;
+	margin-top: 2em;
+}
+
+.results {
+	display: none;
+}
+
+.assets {
+	display: none;
+}
+
+.assets img {
+	height: 520px;
+	width: 520px;
+}
+
+.button {
+	background: #afa;
+	border: 1px solid #000;
+	border-radius: 5px;
+	color: #000;
+	display: inline-block;
+	padding: 0.75em 2em;
+	margin: 2em 0;
+}
+
+.button:hover {
+	background: #8ff;
+}
+
+.explain {
+	display: inline-block;
+	width: 70%;
+}
+
+.example {
+	display: inline-block;
+	margin-left: 5%;
+}
+
+.example img {
+	height: 200px;
+	width: 200px;
+}
