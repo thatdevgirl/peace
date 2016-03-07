@@ -1,4 +1,5 @@
-<?php require('../inc/_header.php'); ?>
+<?php require('../inc/_site-header.php'); ?>
+<?php require('../inc/_page-header-inner.php'); ?>
 
 <link type="text/css" rel="stylesheet" href="css/styles.css" />
 
@@ -81,4 +82,5 @@
 <script src="js/fbInit.js"></script>
 <script src="js/scripts.js"></script>
 
-<?php require('../inc/_footer.php'); ?>
+<?php require('../../inc/_page-footer.php'); ?>
+<?php require('../../inc/_site-footer.php'); ?>
